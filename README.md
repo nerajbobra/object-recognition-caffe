@@ -1,4 +1,4 @@
-# selective-search-caffe
+# object-recognition-caffe
 Object Recognition using Caffe with Selective Search
 
 This is a tutorial to do object recognition using a Caffe pre-trained model and selective search. Although this isn't the most efficient approach to object recognition, it's still fairly fast and the approach is intuitive. To run this project, you'll need to have Caffe and Dlib installed.
